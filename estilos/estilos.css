@@ -1,17 +1,27 @@
 h1{
+  text-align: center;
   color:blue;
 }
 
 h2{
+  text-align: center;
+  text-decoration: underline;
   color: blueviolet;
 }
 
 body{
   text-align: justify;
+  background-color: black;
 }
 
 img{
-  margin-left: auto;
+  margin-left: 15%;
   height: 75%;
   width: 75%;
+}
+
+p{
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  color: green;
 }
