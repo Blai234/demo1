@@ -1,0 +1,17 @@
+h1{
+  color:blue;
+}
+
+h2{
+  color: blueviolet;
+}
+
+body{
+  text-align: justify;
+}
+
+img{
+  margin-left: auto;
+  height: 75%;
+  width: 75%;
+}
